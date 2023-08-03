@@ -1,4 +1,4 @@
-# Speedtest
+# SpeedtestX
 ### Speed and network interface tester
                                                              
                                                              
